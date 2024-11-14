@@ -1,11 +1,10 @@
 # Zomato.Github.EDA
 
 <h3>Zomato Dataset Exploratory Data Analysis (EDA)</h3>
-<br>
+
 This repository contains exploratory data analysis (EDA) of the Zomato dataset. The dataset comprises various features related to restaurants, their locations, cuisines, user ratings, and more from the Zomato platform.
 <br>
 <h3>Dataset Description</h3>
-<br>
 The Zomato dataset consists of the following columns:
 <br>
 <b>Restaurant ID:</b> Unique identifier for each restaurant.
@@ -52,14 +51,12 @@ Is delivering now:</b> Whether the restaurant is delivering at the moment (Yes/N
 <br>
 <br>
 <h3>Files</h3>
-<br>
 <b>zomato.csv:</b> The main dataset file in CSV format.
 <br>
 <b>README.MD:</b> This readme file provides an overview of the dataset and analysis.
 <br>
 
 <h3>Exploratory Data Analysis</h3>
-<br>
 The exploratory data analysis includes:
 <br>
 <b>Data Cleaning:</b> Handling missing values, data type conversion, etc.
@@ -73,7 +70,6 @@ The exploratory data analysis includes:
 <b>Correlation Analysis:</b> Understanding correlations between variables.
 <br>
 <b>Insights and Observations:</b> Drawing insights from the data analysis.
-<br>
 <br>
 <h3>Conclusion</h3>
 The EDA provides valuable insights into the Zomato dataset, offering a better understanding of the restaurant data and its characteristics.
