@@ -74,7 +74,9 @@ The exploratory data analysis includes:
 <h3>Conclusion</h3>
 The EDA provides valuable insights into the Zomato dataset, offering a better understanding of the restaurant data and its characteristics.
 <br>
+<br>
 Feel free to explore the Jupyter Notebook or Python script provided in this repository for detailed analysis and visualization.
+<br>
 <br>
 For any queries or suggestions, please contact [sharmaabhishek2859@gmail.com].
 
