@@ -6,7 +6,6 @@ This repository contains exploratory data analysis (EDA) of the Zomato dataset. 
 <br>
 <h3>Dataset Description</h3>
 The Zomato dataset consists of the following columns:
-<br>
 <b>Restaurant ID:</b> Unique identifier for each restaurant.
 <br>
 <b>Restaurant Name:</b> Name of the restaurant.
